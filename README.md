@@ -14,15 +14,19 @@ Software Requirements
 * An internet browser of your choice; I prefer Chrome
 * A code editor; I prefer VSCode
 
-Open by Downloading or Cloning
+Link to Portfolio on Github Pages:
+*https://chrisnakayama.github.io/portfolio/
+
+To Download or Clone:
 * Navigate to https://github.com/ChrisNakayama/portfolio
 * Download this repository to your computer by clicking the green Code button and 'Download Zip'
 * Or clone the repository
 
-Setup Instructions 
+Setup for viewing in browser: 
 * Navigate to index.html file in Portfolio.
 * Click on index.html to launch in Chrome browser.
 * View Contents of Portfolio in Chrome browser.
+
 
 ## 🐜 Known Bugs
 
